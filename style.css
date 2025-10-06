@@ -1,0 +1,63 @@
+* {
+    background-color: rgb(213, 236, 255);
+}
+.heading-style {
+    background-color: rgb(161, 205, 255);
+    color: rgb(246, 0, 160);
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(246, 0, 160);
+    font-family: "Times New Roman", Georgia, serif;
+    font-size: xx-large;
+    font-weight: bold;
+    padding: 2px;
+    margin: 40px;
+    margin-left: 0%;
+}
+.heading-style-2 {
+    background-color: rgb(92, 168, 255);
+    color: rgb(255, 188, 231);
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(255, 188, 231);
+    font-family: "Times New Roman", Georgia, serif;
+    font-size: x-large;
+    font-weight: 500;
+    padding: 2px;
+    margin: 30px;
+    margin-left: 0%;
+    list-style-type: none;
+}
+.heading-style-3 {
+    background-color: rgb(55, 148, 255);
+    color: rgb(255, 231, 246);
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(255, 231, 246);
+    font-family: "Times New Roman", Georgia, serif;
+    font-size: medium;
+    font-weight: 200;
+    padding: 2px;
+    margin: 20px;
+    margin-left: 0%;
+}
+.p {
+    background-color: rgb(0, 119, 255);
+    color: rgb(255, 255, 255);
+    font-family: "Times New Roman", Georgia, serif;
+    font-size: small;
+    font-weight: 200;
+    padding: 2px;
+    margin: 10px;
+    margin-left: 0%;
+}
+a:link {
+    background-color: rgb(0, 119, 255);
+    color: rgb(255, 255, 255);
+    font-family: "Times New Roman", Georgia, serif;
+    font-size: small;
+    font-weight: 200;
+    padding: 2px;
+    margin: 10px;
+    margin-left: 0%;
+}
